@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         bilibili 字幕
+// @name         bilibili外挂字幕 哔哩哔哩外挂字幕
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
+// @description  哔哩哔哩外挂字幕
 // @author       You
 // @match        https://www.bilibili.com/video/*
 // @grant        none
