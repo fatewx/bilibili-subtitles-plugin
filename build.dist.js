@@ -7,7 +7,7 @@
 // @match        https://www.bilibili.com/video/*
 // @grant        none
 // @require https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js
-// @require https://raw.githubusercontent.com/gsantiago/subtitle.js/master/dist/subtitle.bundle.js
+// @require https://greasyfork.org/scripts/373379-subtitle-utils-module/code/subtitle%20utils%20module.js?version=637875
 // ==/UserScript==
 (function() {
     'use strict';
